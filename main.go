@@ -1,4 +1,4 @@
-package goidagif
+package goidagif32
 
 import (
 	"bytes"
