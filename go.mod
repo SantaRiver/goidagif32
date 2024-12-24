@@ -1,6 +1,6 @@
-module goidagif
+module github.com/SantaRiver/goidagif32
 
-go 1.22
+go 1.22.3
 
 require github.com/fogleman/gg v1.3.0
 
